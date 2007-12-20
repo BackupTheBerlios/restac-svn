@@ -9,8 +9,8 @@
  * (at your option) any later version.
  *
  * For a license to use the RESTAC software under conditions
- * other than those described here, please contact Stephan Steglich by e-mail at the following addresses:
- *    Stephan.Steglich@fokus.fraunhofer.de
+ * other than those described here, please contact David Linner by e-mail at the following addresses:
+ *    David.Linner@fokus.fraunhofer.de
  * RESTAC is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the

@@ -13,8 +13,8 @@ the Free Software Foundation; either version 3 of the License, or
 (at your option) any later version.
 
 For a license to use the RESTAC software under conditions
-other than those described here, please contact Stephan Steglich by e-mail at the following address:
-Stephan.Steglich@fokus.fraunhofer.de
+other than those described here, please contact David Linner by e-mail at the following address:
+David.Linner@fokus.fraunhofer.de
 
 RESTAC is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -35,9 +35,9 @@ The licenses can be found in the /lib subdirectory.
 CONTACT
 
 For any additional information, send an inquiry to 
-Stephan Steglich by e-mail at the following address:
+David Linner by e-mail at the following address:
 
-Stephan.Steglich@fokus.fraunhofer.de
+David.Linner@fokus.fraunhofer.de
 
 Up-to-date information is available at our website:
 

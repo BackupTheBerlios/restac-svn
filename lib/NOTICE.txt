@@ -14,9 +14,9 @@ The licenses can be found in the /lib subdirectory.
 CONTACT
 
 For any additional information, send an inquiry to 
-Stephan Steglich by e-mail at the following address:
+David Linner by e-mail at the following address:
 
-Stephan.Steglich@fokus.fraunhofer.de
+David.Linner@fokus.fraunhofer.de
 
 Up-to-date information is available at our website:
 
