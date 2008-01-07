@@ -1,0 +1,23 @@
+NOTICE 2007-12-11
+
+
+             FhG Fokus RESTAC
+ 		Copyright (C) 2007 FhG Fokus
+	http://www.fokus.fraunhofer.de/home/
+
+
+RESTAC uses following licensed libraries:
+log4j1.2.8 which is under Apache License, Version 2.0
+
+The licenses can be found in the /lib subdirectory.
+
+CONTACT
+
+For any additional information, send an inquiry to 
+David Linner by e-mail at the following address:
+
+David.Linner@fokus.fraunhofer.de
+
+Up-to-date information is available at our website:
+
+http://www.fokus.fraunhofer.de/bereichsseiten/kompetenzzentrum/oks-tu/demos_tech/restac.php
